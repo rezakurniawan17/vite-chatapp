@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen px-6 py-6 bg-white shadow-xl rounded-xl">
+  <div class="w-full max-h-full min-h-screen px-6 py-6 bg-white shadow-xl rounded-xl">
     <Navbar />
     <ChatWindow />
     <NewChatForm />
